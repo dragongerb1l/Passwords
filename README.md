@@ -198,6 +198,17 @@ Creating a Password:
 
     Reusing passwords makes credential stuffing attacks far more dangerous.
 
+  6. Mnemonic Password / Acronym Password
+
+     Creating a sentence that is easy to remember with numbers and symbols
+
+     Use the first letter or number that comes up in the sentence for password
+
+     Example: My dog Henry was born in 2013 and loves to watch Bluey! = MdHwbi2013altwB!
+               
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Store Passwords Securely
 
   1. Use a Password Manager
